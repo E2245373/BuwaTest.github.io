@@ -1,0 +1,51 @@
+[
+  {
+    "description": " John",
+    "amount": "100000",
+    "earnings_expense": "Earnings",
+    "transaction_type": "Miscellaneous",
+    "transaction_date": "2024-06-15"
+  },
+  {
+    "description": " Alex",
+    "amount": "100000",
+    "earnings_expense": "Expenses",
+    "transaction_type": "Medical",
+    "transaction_date": "2024-06-15"
+  },
+  {
+    "description": " Cena",
+    "amount": "100000",
+    "earnings_expense": "Expenses",
+    "transaction_type": "Medical",
+    "transaction_date": "2024-06-15"
+  },
+  {
+    "description": " Joe",
+    "amount": "100000",
+    "earnings_expense": "Earnings",
+    "transaction_type": "Miscellaneous",
+    "transaction_date": "2024-06-15"
+  },
+  {
+    "description": " Alladin",
+    "amount": "100000",
+    "earnings_expense": "Earnings",
+    "transaction_type": "Miscellaneous",
+    "transaction_date": "2024-06-15"
+  },
+  {
+    "description": " Muha",
+    "amount": "100000",
+    "earnings_expense": "Earnings",
+    "transaction_type": "Miscellaneous",
+    "transaction_date": "2024-06-15"
+  },
+  {
+    "description": " Jonathan",
+    "amount": "100000",
+    "earnings_expense": "Earnings",
+    "transaction_type": "Miscellaneous",
+    "transaction_date": "2024-06-15"
+  }
+]
